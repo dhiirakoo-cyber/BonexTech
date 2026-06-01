@@ -1,0 +1,6 @@
+{
+  "name": "Amoo Academy",
+  "description": "Premium bilingual courses portal (English & Afaan Oromoo) providing high-quality tech training under Harar, Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
